@@ -6,6 +6,9 @@ dist
 .DS_Store
 node_modules
 /dist
+.turbo
+.turbo/
+.turbo/*
 
 # local env files
 .env.local
