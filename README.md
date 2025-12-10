@@ -1,30 +1,15 @@
-# gitpkgmain
+<img alt="GitExec-icon" src="docs/.vuepress/public/cover.svg" width="100%" height="260px">
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+# GitExec
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/anashones-projects/v0-gitpkgmain)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/lpTN4TLki9e)
+[![GitHub deployments](https://img.shields.io/github/deployments/neopilot/gitexec/production?label=gitexec.now.sh&logo=zeit&style=flat-square)](https://gitexec.now.sh)
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg?style=flat-square)](https://lerna.js.org/)
 
-## Overview
+GitExec enables you to use a sub directory in a github repo as yarn / npm dependency.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+[:tada: Try Now !](https://gitexec.now.sh)
 
-## Deployment
+:unicorn: Features:
 
-Your project is live at:
-
-**[https://vercel.com/anashones-projects/v0-gitpkgmain](https://vercel.com/anashones-projects/v0-gitpkgmain)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/lpTN4TLki9e](https://v0.app/chat/lpTN4TLki9e)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- sub folder of a github repo as yarn / npm dependency
+- use [custom scripts](https://gitexec.now.sh/guide/#custom-scripts) to build source code when installing

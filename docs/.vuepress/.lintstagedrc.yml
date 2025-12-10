@@ -1,0 +1,2 @@
+"*.vue": "prettier --write"
+"!(.eslintrc).js": "pnpm run lint:fix"

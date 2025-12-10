@@ -1,0 +1,5 @@
+
+
+> @gitexec/core@1.0.0-alpha build /Users/KhulnaSoft/gitexc/packages/core
+> rimraf dist && tsc -p tsconfig.prod.json --outDir dist --module CommonJS --declaration --sourceMap --declarationMap
+

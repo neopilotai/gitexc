@@ -1,0 +1,69 @@
+{
+  "name": "@gitexec/site",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "docs/.vuepress",
+    "tools/*",
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neopilot/gitexec.git"
+  },
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "test:ci": "turbo run test -- --ci",
+    "lint:fix": "eslint --cache --max-warnings 0 --fix",
+    "now-build": "pnpm run build && pnpm run test"
+  },
+  "packageManager": "pnpm@8.15.1",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/plugin-transform-runtime": "^7.28.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/register": "^7.23.3",
+    "@babel/runtime": "^7.28.4",
+    "@babel/types": "^7.28.5",
+    "@gitexec/common": "*",
+    "@now/node": "^1.4.1",
+    "@types/babel__core": "^7.20.5",
+    "@types/jest": "^29.5.10",
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "babel-plugin-transform-remove-debugger": "^6.9.4",
+    "core-js": "3",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "husky": "^8.0.3",
+    "imagemin-lint-staged": "^0.4.0",
+    "jest": "^29.7.0",
+    "lerna": "^7.2.0",
+    "lint-staged": "^15.0.2",
+    "now": "^17.0.4",
+    "prettier": "^3.1.0",
+    "rimraf": "^5.0.5",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "turbo": "^2.6.3",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@gitexec/core": "^1.0.0-alpha",
+    "express-rate-limit": "^7.1.5",
+    "express-validator": "^7.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && lerna run precommit"
+    }
+  }
+}

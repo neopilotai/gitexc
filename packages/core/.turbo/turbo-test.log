@@ -1,0 +1,420 @@
+
+
+> @gitexec/core@1.0.0-alpha test /Users/KhulnaSoft/gitexc/packages/core
+> jest "--ci"
+
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        1 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1Ats-jest[ts-jest-transformer] (WARN) Define `ts-jest` config under `globals` is deprecated. Please do
+transform: {
+    <transform_regex>: ['ts-jest', { /* ts-jest config goes here in Jest */ }],
+},
+See more at https://kulshekhar.github.io/ts-jest/docs/getting-started/presets#advanced
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1Ats-jest[ts-jest-transformer] (WARN) Define `ts-jest` config under `globals` is deprecated. Please do
+transform: {
+    <transform_regex>: ['ts-jest', { /* ts-jest config goes here in Jest */ }],
+},
+See more at https://kulshekhar.github.io/ts-jest/docs/getting-started/presets#advanced
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1Ats-jest[ts-jest-transformer] (WARN) Define `ts-jest` config under `globals` is deprecated. Please do
+transform: {
+    <transform_regex>: ['ts-jest', { /* ts-jest config goes here in Jest */ }],
+},
+See more at https://kulshekhar.github.io/ts-jest/docs/getting-started/presets#advanced
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        4 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        5 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        7 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        8 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        9 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [2msrc/tar/[22m[1mextract-sub-folder.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    [1m[31mJest encountered an unexpected token[39m[22m
+
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.
+
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see [4mhttps://jestjs.io/docs/ecmascript-modules[24m for how to enable it.
+     • If you are trying to use TypeScript, see [4mhttps://jestjs.io/docs/getting-started#using-typescript[24m
+     • To have some of your "node_modules" files transformed, you can specify a custom [1m"transformIgnorePatterns"[22m in your config.
+     • If you need a custom transformation specify a [1m"transform"[22m option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the [1m"moduleNameMapper"[22m config option.
+
+    You'll find more details and examples of these config options in the docs:
+    [36mhttps://jestjs.io/docs/configuration[39m
+    For information about custom transformations, see:
+    [36mhttps://jestjs.io/docs/code-transformation[39m
+
+    [1m[31mDetails:[39m[22m
+
+    /Users/KhulnaSoft/gitexc/packages/core/src/tar/extract-sub-folder.ts:1
+    ({"Object.<anonymous>":function(module,exports,require,__dirname,__filename,jest){"use strict";import "core-js/modules/es.array.push.js";
+                                                                                                   ^^^^^^
+
+    SyntaxError: Cannot use import statement outside a module
+
+    [0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m { extractSubFolder } [36mfrom[39m [32m"./extract-sub-folder"[39m[33m;[39m
+     [90m   |[39m [31m[1m^[22m[39m
+     [90m 2 |[39m [36mimport[39m { [33mTarEntry[39m } [36mfrom[39m [32m"tar-transform"[39m[33m;[39m
+     [90m 3 |[39m [36mimport[39m { [33mReadable[39m[33m,[39m pipeline [36mas[39m _pipeline } [36mfrom[39m [32m"stream"[39m[33m;[39m
+     [90m 4 |[39m [36mimport[39m { tarEntries[33m,[39m getEntries } [36mfrom[39m [32m"../../test/util/tar-entry"[39m[33m;[39m[0m
+
+      [2mat Runtime.createScriptFromCode ([22m../../node_modules/.pnpm/jest-runtime@29.7.0/node_modules/jest-runtime/build/index.js[2m:1505:14)[22m
+      [2mat Object.require ([22m[0m[36msrc/tar/extract-sub-folder.spec.ts[39m[0m[2m:1:1)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [2msrc/parse-url-query/plugins/custom-scripts/[22m[1mparse-query.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    [1m[31mJest encountered an unexpected token[39m[22m
+
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.
+
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see [4mhttps://jestjs.io/docs/ecmascript-modules[24m for how to enable it.
+     • If you are trying to use TypeScript, see [4mhttps://jestjs.io/docs/getting-started#using-typescript[24m
+     • To have some of your "node_modules" files transformed, you can specify a custom [1m"transformIgnorePatterns"[22m in your config.
+     • If you need a custom transformation specify a [1m"transform"[22m option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the [1m"moduleNameMapper"[22m config option.
+
+    You'll find more details and examples of these config options in the docs:
+    [36mhttps://jestjs.io/docs/configuration[39m
+    For information about custom transformations, see:
+    [36mhttps://jestjs.io/docs/code-transformation[39m
+
+    [1m[31mDetails:[39m[22m
+
+    /Users/KhulnaSoft/gitexc/packages/core/src/parse-url-query/plugins/custom-scripts/parse-query.ts:1
+    ({"Object.<anonymous>":function(module,exports,require,__dirname,__filename,jest){"use strict";import "core-js/modules/es.array.push.js";
+                                                                                                   ^^^^^^
+
+    SyntaxError: Cannot use import statement outside a module
+
+    [0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m [33m*[39m [36mas[39m impl [36mfrom[39m [32m"./parse-query"[39m[33m;[39m
+     [90m   |[39m [31m[1m^[22m[39m
+     [90m 2 |[39m
+     [90m 3 |[39m test([32m"check if query key is custom script"[39m[33m,[39m () [33m=>[39m {
+     [90m 4 |[39m   expect(impl[33m.[39mqueryKeyIsCustomScript([32m"scripts.postinstall"[39m))[33m.[39mtoBe([36mtrue[39m)[33m;[39m[0m
+
+      [2mat Runtime.createScriptFromCode ([22m../../node_modules/.pnpm/jest-runtime@29.7.0/node_modules/jest-runtime/build/index.js[2m:1505:14)[22m
+      [2mat Object.require ([22m[0m[36msrc/parse-url-query/plugins/custom-scripts/parse-query.spec.ts[39m[0m[2m:1:1)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [2msrc/tar/[22m[1mprepend-path.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    [1m[31mJest encountered an unexpected token[39m[22m
+
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.
+
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see [4mhttps://jestjs.io/docs/ecmascript-modules[24m for how to enable it.
+     • If you are trying to use TypeScript, see [4mhttps://jestjs.io/docs/getting-started#using-typescript[24m
+     • To have some of your "node_modules" files transformed, you can specify a custom [1m"transformIgnorePatterns"[22m in your config.
+     • If you need a custom transformation specify a [1m"transform"[22m option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the [1m"moduleNameMapper"[22m config option.
+
+    You'll find more details and examples of these config options in the docs:
+    [36mhttps://jestjs.io/docs/configuration[39m
+    For information about custom transformations, see:
+    [36mhttps://jestjs.io/docs/code-transformation[39m
+
+    [1m[31mDetails:[39m[22m
+
+    /Users/KhulnaSoft/gitexc/packages/core/src/tar/prepend-path.ts:1
+    ({"Object.<anonymous>":function(module,exports,require,__dirname,__filename,jest){"use strict";import "core-js/modules/es.array.push.js";
+                                                                                                   ^^^^^^
+
+    SyntaxError: Cannot use import statement outside a module
+
+    [0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m [33m*[39m [36mas[39m impl [36mfrom[39m [32m"./prepend-path"[39m[33m;[39m
+     [90m   |[39m [31m[1m^[22m[39m
+     [90m 2 |[39m [36mimport[39m { tarEntries[33m,[39m getEntries } [36mfrom[39m [32m"../../test/util/tar-entry"[39m[33m;[39m
+     [90m 3 |[39m [36mimport[39m { [33mReadable[39m[33m,[39m pipeline [36mas[39m _pl } [36mfrom[39m [32m"stream"[39m[33m;[39m
+     [90m 4 |[39m [36mimport[39m { promisify } [36mfrom[39m [32m"util"[39m[33m;[39m[0m
+
+      [2mat Runtime.createScriptFromCode ([22m../../node_modules/.pnpm/jest-runtime@29.7.0/node_modules/jest-runtime/build/index.js[2m:1505:14)[22m
+      [2mat Object.require ([22m[0m[36msrc/tar/prepend-path.spec.ts[39m[0m[2m:1:1)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...s[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...prepend-path.
+spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...t-sub-folder.
+spec.ts[22m
+
+[1mTest Suites: [22m0 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...stom-scripts.
+spec.ts[22m
+
+[1mTest Suites: [22m[1m[31m3 failed[39m[22m, 3 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [2msrc/tar/[22m[1mcustom-scripts.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...stom-scripts.
+spec.ts[22m
+
+[1mTest Suites: [22m[1m[31m3 failed[39m[22m, 3 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    [1m[31mJest encountered an unexpected token[39m[22m
+
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.
+
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see [4mhttps://jestjs.io/docs/ecmascript-modules[24m for how to enable it.
+     • If you are trying to use TypeScript, see [4mhttps://jestjs.io/docs/getting-started#using-typescript[24m
+     • To have some of your "node_modules" files transformed, you can specify a custom [1m"transformIgnorePatterns"[22m in your config.
+     • If you need a custom transformation specify a [1m"transform"[22m option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the [1m"moduleNameMapper"[22m config option.
+
+    You'll find more details and examples of these config options in the docs:
+    [36mhttps://jestjs.io/docs/configuration[39m
+    For information about custom transformations, see:
+    [36mhttps://jestjs.io/docs/code-transformation[39m
+
+    [1m[31mDetails:[39m[22m
+
+    /Users/KhulnaSoft/gitexc/packages/core/src/tar/custom-scripts.spec.ts:1
+    ({"Object.<anonymous>":function(module,exports,require,__dirname,__filename,jest){"use strict";import "core-js/modules/es.json.stringify.js";import "core-js/modules/esnext.iterator.constructor.js";import "core-js/modules/esnext.iterator.map.js";
+                                                                                                   ^^^^^^
+
+    SyntaxError: Cannot use import statement outside a module
+
+      [2mat Runtime.createScriptFromCode ([22m../../node_modules/.pnpm/jest-runtime@29.7.0/node_modules/jest-runtime/build/index.js[2m:1505:14)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [1m...stom-scripts.
+spec.ts[22m
+
+[1mTest Suites: [22m[1m[31m3 failed[39m[22m, 3 of 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+
+[1mTest Suites: [22m[1m[31m4 failed[39m[22m, 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10 s[K[1A[K[1A[K[1A[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m4 failed[39m[22m, 4 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        10.966 s
+[2mRan all test suites[22m[2m.[22m
+[41m[30m ELIFECYCLE [39m[49m [31mTest failed. See above for more details.[39m

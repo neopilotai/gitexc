@@ -1,0 +1,5 @@
+{
+  "extends": "@gitexec/common/tsconfig",
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
