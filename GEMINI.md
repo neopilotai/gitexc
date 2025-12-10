@@ -39,6 +39,7 @@ To get started with GitExec, follow these steps:
     ```bash
     pnpm run build
     ```
+    *Note: The `docs` package build currently fails with an `ERR_MODULE_NOT_FOUND` error related to `hast-util-to-html`. This is likely an upstream compatibility issue with `vuepress v2`, `pnpm`, and ESM module resolution in a monorepo environment. The core packages (`@gitexec/core`) are expected to build successfully.*
 
 3.  **Run in Development Mode**:
     ```bash
